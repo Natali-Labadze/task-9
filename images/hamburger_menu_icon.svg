@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.935 19.899">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Cart" transform="translate(-16.5 -15.5)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="22.935" transform="translate(18 17)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="22.935" transform="translate(18 25.45)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="22.935" transform="translate(18 33.899)"/>
+  </g>
+</svg>
